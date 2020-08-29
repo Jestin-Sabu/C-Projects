@@ -1,2 +1,2 @@
-# C-Projects
-Long Term Projects with much details but, not sophisticated.
+# C-Project
+C Projects with much details but, not sophisticated.
